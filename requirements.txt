@@ -1,1 +1,10 @@
-
+Librerias usadas:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+catboost
+xgboost
+shap
